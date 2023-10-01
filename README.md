@@ -1,6 +1,6 @@
 # React Elo
  
-Get Elo rankings for your chess, backgammon, or other strategy games.
+Get Elo rankings for your chess, backgammon, or other strategy games. Visit [NPM](https://www.npmjs.com/package/react-elo) for more info. 
 
 ## Install
 
