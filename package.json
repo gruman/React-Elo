@@ -1,0 +1,24 @@
+{
+  "name": "react-elo",
+  "version": "1.0.1",
+  "description": "Elo rankings for React and Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "npm",
+    "package"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gruman/React-Elo.git"
+  },
+  "bugs": {
+    "url": "git+https://github.com/gruman/React-Elo.git"
+  },
+  "homepage": "https://matthewgruman.com"
+}
