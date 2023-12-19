@@ -14,7 +14,7 @@ or
 
     import { getElo } from 'react-elo/Elo';
 
-    console.log(getElo(1200, 1500))
+    console.log(getElo(1200, 1500, 1))
 
     output: {winNewElo: 1218, loseNewElo: 1482}
 
