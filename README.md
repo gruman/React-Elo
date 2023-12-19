@@ -12,7 +12,7 @@ or
 
 ## Usage
 
-    import { getElo } from 'react-elo';
+    import { getElo } from 'react-elo/Elo';
 
     console.log(getElo(1200, 1500))
 
